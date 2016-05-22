@@ -1,7 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m Nirav's personal bot. He is a Masters student, interested in Full Stack Web Development opportunities.Want to know more about Nirav? %[Learn about Nirav](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m Nirav's personal bot. He is a Masters student, interested in Full Stack Web Development opportunities.Want to know more about Nirav? %[Learn about him](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "LEARN ABOUT HIM": "Some information",
+    "HELLO": "Hi there!\nI’m Nirav's personal bot. He is a Master's student, interested in Full Stack Web Development opportunities. Want to know more about Nirav? %[Learn about him](postback:learn_about_nirav)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
